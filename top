@@ -1,0 +1,246 @@
+[33mcommit a6113abe12248d2431748b6dc3cbedec5be063dc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Sat Sep 26 17:00:18 2020 -0300
+
+    Updated gem versions
+
+[33mcommit c3f5336d093d5c48be3a53545f8fefb8ea680a67[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Sun Jun 28 16:20:26 2020 -0300
+
+    Revert "Delete Posts “2010-01-01-welcome-to-the-desert-of-the-real”"
+    
+    This reverts commit 6651994998bd02eb82c6f9d09821cdede2711812.
+
+[33mcommit a71ecd268828df1e6ac183eb0d98e53afde4bdfc[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Sun Jun 28 16:18:42 2020 -0300
+
+    Deleted category teste
+
+[33mcommit 838b45caf3118ba096570b2afd5320ea7b31ad98[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Sun Jun 28 16:13:52 2020 -0300
+
+    Delete Posts “2020-06-01-teste”
+
+[33mcommit 9f74cb201417403d4e95eb672cff36dfbbfac2f0[m
+Merge: ec23a60 001bc53
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Wed Jun 24 22:32:55 2020 -0300
+
+    Merge pull request #105 from thiagorossener/cms/settings/site
+    
+    Automatically generated. Merged on Netlify CMS.
+
+[33mcommit 001bc53a730ca45c3a7a542025e9b59bbe5c07ae[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Thu Jun 25 01:32:05 2020 +0000
+
+    Update Settings “site”
+
+[33mcommit ec23a60896e60a2ef500bbb13dad9dd20b321203[m
+Merge: cc91e78 3574457
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Mon Jun 22 16:18:15 2020 -0300
+
+    Merge pull request #89 from fasihahmad/master
+    
+    Last comma logic in json+ld
+
+[33mcommit cc91e787d0f9897f03e1d7214053a97622f6fded[m
+Merge: 0602096 8e1acf0
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Mon Jun 1 00:59:10 2020 -0300
+
+    Merge pull request #92 from thiagorossener/cms/posts/2020-06-01-teste
+    
+    Automatically generated. Merged on Netlify CMS.
+
+[33mcommit 8e1acf0d3a16b296109ff163468b4485aae7512b[m
+Author: Matheus Coqueiro Andrade <matheusbdo1@gmail.com>
+Date:   Mon Jun 1 03:58:29 2020 +0000
+
+    Create Posts “2020-06-01-teste”
+
+[33mcommit 060209605bba2447e6bb6e5714793605f79d8131[m
+Merge: e02d442 2ddf669
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Mon Jun 1 00:57:21 2020 -0300
+
+    Merge pull request #91 from thiagorossener/cms/categories/teste
+    
+    Automatically generated. Merged on Netlify CMS.
+
+[33mcommit 2ddf669dea69ffd0e4c50cb0e8d181f866c889a5[m
+Author: Matheus Coqueiro Andrade <matheusbdo1@gmail.com>
+Date:   Mon Jun 1 03:56:51 2020 +0000
+
+    Create Categories “teste”
+
+[33mcommit 3574457c0da2c21c98ac47f156de4462afeccff6[m
+Author: Fasih Ahmad Fakhri <fasihahmadfakhri@gmail.com>
+Date:   Wed May 27 20:16:50 2020 +0530
+
+    [Updated] Last comma logic
+
+[33mcommit e02d442302121703d25360fdc8a5ff9428b02a68[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Sun Apr 5 08:30:36 2020 -0300
+
+    Delete Posts “2010-02-02-far-far-away-behind-the-word-mountains”
+
+[33mcommit f93e462d8cfbd5eb140dd62906c58d3b79293d36[m
+Merge: 25b7f38 35dd103
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Thu Apr 2 11:20:49 2020 -0300
+
+    Merge pull request #81 from thiagorossener/dependabot/npm_and_yarn/acorn-5.7.4
+    
+    Bump acorn from 5.7.3 to 5.7.4
+
+[33mcommit 25b7f38c23f4342619aa530adfa61812335e809b[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Thu Apr 2 11:19:25 2020 -0300
+
+    Updated features list
+
+[33mcommit 35dd10369204dac193691d4ced676a85a8364cc1[m[33m ([m[1;31morigin/dependabot/npm_and_yarn/acorn-5.7.4[m[33m)[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Apr 2 14:10:38 2020 +0000
+
+    Bump acorn from 5.7.3 to 5.7.4
+    
+    Bumps [acorn](https://github.com/acornjs/acorn) from 5.7.3 to 5.7.4.
+    - [Release notes](https://github.com/acornjs/acorn/releases)
+    - [Commits](https://github.com/acornjs/acorn/compare/5.7.3...5.7.4)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 455d3307ea2aba9d27891b4b1b2f98350e31dd61[m[33m ([m[1;33mtag: v3.1.0[m[33m)[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Thu Apr 2 11:09:38 2020 -0300
+
+    Preparing to release v3.1.0
+
+[33mcommit be0d50822f63e6c1bf94453c0e855b4cbc62984a[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Thu Apr 2 10:44:28 2020 -0300
+
+    Removed MathJax page
+
+[33mcommit 3799794c355ea02869099f907c3d998b95a12400[m
+Merge: 9510c0b 8e486c3
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Thu Apr 2 10:42:37 2020 -0300
+
+    Merge pull request #76 from PolarisStudio/master
+    
+    Add math feature
+
+[33mcommit 9510c0b5570cb7438a0758999d31fa741903fad8[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Thu Apr 2 10:36:32 2020 -0300
+
+    Updated Google Analytics script
+
+[33mcommit 3cad00291e8ea9f56a0dc9208264ba9f2c7f9fa2[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Thu Apr 2 09:42:38 2020 -0300
+
+    Fixed site.yml
+
+[33mcommit 8a057af11ebbc3c5d5a475c3b58513e10b6f04f7[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Thu Apr 2 09:41:14 2020 -0300
+
+    Fixed hero URL
+
+[33mcommit cabcb95cd27301eabc4d31a7e44145d43ca1383b[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Thu Apr 2 09:11:06 2020 -0300
+
+    Added translations into documentation
+
+[33mcommit 8e486c314a1e6b7b33f12d609761fafcd73fc0f3[m
+Author: XieGuochao <117010307@link.cuhk.edu.cn>
+Date:   Sat Mar 21 21:29:35 2020 +0800
+
+    Add math feature
+
+[33mcommit 66df265d57fc114bbe80b70507b995275fac90f2[m
+Merge: c7c52be c809a12
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Thu Feb 27 02:30:59 2020 -0300
+
+    Merge pull request #68 from thiagorossener/cms/settings/site
+    
+    Automatically generated. Merged on Netlify CMS.
+
+[33mcommit c809a126dd56c047201e71ba15397b7475cc1b68[m
+Author: Diego Fornalha <diegofornalha@gmail.com>
+Date:   Thu Feb 27 05:30:46 2020 +0000
+
+    Update Settings “site”
+
+[33mcommit c7c52beda137e700aca558ed71f022517127e9c2[m
+Merge: 6651994 f222247
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Thu Feb 27 01:54:24 2020 -0300
+
+    Merge pull request #66 from thiagorossener/cms/pages/about-1
+    
+    Automatically generated. Merged on Netlify CMS.
+
+[33mcommit f22224753adb5bd827dd41c381e56a9cbee986fc[m
+Author: Diego Fornalha <diegofornalha@gmail.com>
+Date:   Thu Feb 27 04:54:03 2020 +0000
+
+    Create Pages “about-1”
+
+[33mcommit 6651994998bd02eb82c6f9d09821cdede2711812[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Tue Feb 18 13:42:29 2020 -0300
+
+    Delete Posts “2010-01-01-welcome-to-the-desert-of-the-real”
+
+[33mcommit c0db1af4fa332f8432e8c2260f13e6ada48c9af1[m
+Merge: e3a3c67 8249d87
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Fri Feb 14 19:36:52 2020 -0300
+
+    Merge branch 'master' of https://github.com/thiagorossener/jekflix-template
+
+[33mcommit e3a3c6701266dfa71162903688d22e8de7c9dec3[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Fri Feb 14 19:36:30 2020 -0300
+
+    Fixed Netlify CMS branch
+
+[33mcommit 8249d878f479668e824c95f8150bb8fb5a4b589e[m[33m ([m[1;33mtag: v3.0.2[m[33m)[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Wed Feb 5 11:06:59 2020 -0300
+
+    Updated README
+
+[33mcommit 62f9baea5237dd626db3f034f8bf1dfb3b9b8a0a[m[33m ([m[1;33mtag: v3.0.1[m[33m, [m[1;33mtag: v3.0.0[m[33m)[m
+Merge: c746bd7 8445682
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Wed Feb 5 10:33:08 2020 -0300
+
+    Merge branch 'master' of https://github.com/thiagorossener/jekflix-template
+
+[33mcommit c746bd73c05978d36022f1e3a63b9614731bb8a4[m
+Merge: e569a08 9369781
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Wed Feb 5 10:32:33 2020 -0300
+
+    Merged gem branch
+
+[33mcommit 9369781ac077f5278a23275ff5b1626e00714468[m[33m ([m[1;31morigin/gem[m[33m)[m
+Author: Thiago Rossener <thiago.rossener@gmail.com>
+Date:   Wed Feb 5 10:14:21 2020 -0300
+
+    Updated geem version to 3.0.2
+
+[33mcommit f28408a5d7394a5fcb5a7bdff2c94ea68b2d0f8
